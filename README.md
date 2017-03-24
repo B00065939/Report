@@ -59,6 +59,10 @@ This repository is based on a simplified version of the Pandoc example of the Pr
 
 - [http://pandoc.org/epub.html#a-real-book](http://pandoc.org/epub.html#a-real-book)
 
+## bibliography ##
+
+Convert your .bib(tex) file to a .json file.
+{ pandoc-citeproc --bib2json foo.bib > foo.json }
 
 ## todo ##
 

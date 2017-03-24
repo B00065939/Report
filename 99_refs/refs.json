@@ -1,18 +1,35 @@
 [
   {
-    "id": "unity_cookbook",
-    "title": "Unity 5.x Coobook",
-    "type": "book",
-    "publisher": "Packt",
-    "publisher-place": "UK",
+    "id": "overton2000feasibility",
+    "ISBN": "9780958582988",
+    "URL": "https://books.google.ie/books?id=SW-EAAAACAAJ",
     "author": [
       {
-        "family": "Smith",
-        "given": "Matt"
-      },
+        "family": "Overton",
+        "given": "R."
+      }
+    ],
+    "collection-title": "Australian business basics series",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher": "Martin Management Services in conjunction with Parramatta Business Centre",
+    "title": "Feasibility studies made simple",
+    "type": "book"
+  },
+////////////////////////////////////////////////////////
+  {
+    "id": "lockhart2015",
+    "ISBN": "9781491904992",
+    "URL": "https://books.google.ie/books?id=rnSpBgAAQBAJ",
+    "author": [
       {
-        "family": "Queiroz",
-        "given": "Chico"
+        "family": "Lockhart",
+        "given": "J."
       }
     ],
     "issued": {
@@ -21,52 +38,175 @@
           2015
         ]
       ]
-    }
+    },
+    "publisher": "O’Reilly Media",
+    "title": "Modern php: New features and good practices",
+    "title-short": "Modern php",
+    "type": "book"
   },
-
+//////////////////////////////////////////////////////
   {
-    "id": "unity_cookbook",
-    "title": "Unity 5.x Coobook",
-    "type": "book",
-    "publisher": "Packt",
-    "publisher-place": "UK",
+    "id": "agilemanifesto",
+    "URL": "https://agilemanifesto.org/",
     "author": [
       {
-        "family": "Smith",
-        "given": "Matt"
+        "family": "Agile"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "title": "Agile manifesto",
+    "type": "article-journal"
+  },
+/////////////////////////////////////////////////////////
+  {
+    "id": "sklar2016",
+    "author": [
+      {
+        "family": "Sklar",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "O’Reilly Media, Inc., USA",
+    "title": "Learning php: A gentle introduction to the web’s most popular language",
+    "title-short": "Learning php",
+    "type": "book"
+  },
+////////////////////////////////////////////////////////
+ {
+    "id": "laravel",
+    "URL": "https://laravel.com/",
+    "author": [
+      {
+        "family": "Laravel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "title": "Laravel",
+    "type": "Online"
+  },
+////////////////////////////////////////////////////////
+  {
+    "id": "zend",
+    "URL": "https://framework.zend.com/",
+    "author": [
+      {
+        "family": "Zend",
+        "given": "a Rogue Wave Company"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "title": "Zend framework",
+    "type": "Online"
+  },  
+////////////////////////////////////////////////////////
+  {
+    "id": "symfony",
+    "URL": "http://symfony.com/",
+    "author": [
+      {
+        "family": "Symfony"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "title": "Symfony",
+    "type": "Online"
+  },
+////////////////////////////////////////////////////////
+  {
+    "id": "rgr",
+    "URL": "http://itcraftsman.pl/wp-content/uploads/2016/04/red_green_refactor.png",
+    "accessed": {},
+    "author": [
+      {
+        "family": "Kondas",
+        "given": "Arkadiusz"
+      }
+    ],
+    "note": "\\[Online; accessed November 24, 2016\\]",
+    "title": "Red green refactor",
+    "type": "Online"
+  },
+////////////////////////////////////////////////////////
+  {
+    "id": "kenet2002",
+    "author": [
+      {
+        "family": "Becks",
+        "given": "Kent"
+      }
+    ],
+ 
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "publisher": "Addison-Wesley Professional",
+    "title": "Test driven development: By example.",
+    "title-short": "Test driven development",
+    "type": "book"
+  },
+////////////////////////////////////////////////////////
+{
+    "id": "Chelimsky2010",
+    "author": [
+      {
+        "family": "Chelimsky",
+        "given": "David"
       },
       {
-        "family": "Queiroz",
-        "given": "Chico"
+        "literal": "others"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2015
+          2010
         ]
       ]
-    }
-  },
-
-  {
-    "id": "hitch_hikers_guide",
-    "publisher": "Pan",
-    "publisher-place": "UK",
-    "title": "Hitch Hiker's Guide to the Galaxy",
-    "type": "book",
-    "author": [
-      {
-        "family": "Adams",
-        "given": "Douglas"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          1979
-        ]
-      ]
-    }
+    },
+    "page": "9",
+    "publisher": "Pragmatic Bookshelf",
+    "title": "The RSpec book: Behaviour-driven development with rspec, cucumber, and friends., the bdd cycle",
+    "title-short": "The rspeec book",
+    "type": "book"
   }
+
   ]
