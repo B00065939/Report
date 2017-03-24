@@ -1,6 +1,6 @@
 [
   {
-    "id": "overton2000feasibility",
+    "id": "overton2000",
     "ISBN": "9780958582988",
     "URL": "https://books.google.ie/books?id=SW-EAAAACAAJ",
     "author": [
@@ -21,7 +21,7 @@
     "title": "Feasibility studies made simple",
     "type": "book"
   },
-////////////////////////////////////////////////////////
+
   {
     "id": "lockhart2015",
     "ISBN": "9781491904992",
@@ -44,7 +44,7 @@
     "title-short": "Modern php",
     "type": "book"
   },
-//////////////////////////////////////////////////////
+
   {
     "id": "agilemanifesto",
     "URL": "https://agilemanifesto.org/",
@@ -64,7 +64,7 @@
     "title": "Agile manifesto",
     "type": "article-journal"
   },
-/////////////////////////////////////////////////////////
+
   {
     "id": "sklar2016",
     "author": [
@@ -85,7 +85,7 @@
     "title-short": "Learning php",
     "type": "book"
   },
-////////////////////////////////////////////////////////
+
  {
     "id": "laravel",
     "URL": "https://laravel.com/",
@@ -103,9 +103,9 @@
       ]
     },
     "title": "Laravel",
-    "type": "Online"
+    "type": "webpage"
   },
-////////////////////////////////////////////////////////
+
   {
     "id": "zend",
     "URL": "https://framework.zend.com/",
@@ -124,9 +124,9 @@
       ]
     },
     "title": "Zend framework",
-    "type": "Online"
+    "type": "webpage"
   },  
-////////////////////////////////////////////////////////
+
   {
     "id": "symfony",
     "URL": "http://symfony.com/",
@@ -144,9 +144,9 @@
       ]
     },
     "title": "Symfony",
-    "type": "Online"
+    "type": "webpage"
   },
-////////////////////////////////////////////////////////
+
   {
     "id": "rgr",
     "URL": "http://itcraftsman.pl/wp-content/uploads/2016/04/red_green_refactor.png",
@@ -157,11 +157,19 @@
         "given": "Arkadiusz"
       }
     ],
-    "note": "\\[Online; accessed November 24, 2016\\]",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
     "title": "Red green refactor",
-    "type": "Online"
+    "type": "webpage"
   },
-////////////////////////////////////////////////////////
+
+
   {
     "id": "kenet2002",
     "author": [
@@ -183,7 +191,7 @@
     "title-short": "Test driven development",
     "type": "book"
   },
-////////////////////////////////////////////////////////
+
 {
     "id": "Chelimsky2010",
     "author": [
@@ -207,6 +215,174 @@
     "title": "The RSpec book: Behaviour-driven development with rspec, cucumber, and friends., the bdd cycle",
     "title-short": "The rspeec book",
     "type": "book"
-  }
+  },
 
-  ]
+ {
+    "id": "cuadrado2015",
+    "author": [
+      {
+        "comma-suffix": false,
+        "family": "M. Salas-Zárate",
+        "given": "R. Valencia-García",
+        "suffix": "G. Alor-Hernández"
+      },
+      {
+        "family": "Cuadrado",
+        "given": "J. López"
+      }
+    ],
+    "container-title": "Science of Computer Programming",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "1-19",
+    "title": "Analyzing best practices on web development frameworks: The lift approach",
+    "title-short": "Analyzing best practices on web development frameworks",
+    "type": "article-journal",
+    "volume": "102"
+  },
+ 
+  {
+    "id": "getcomposer",
+    "URL": "https://getcomposer.org/doc/00-intro.md",
+    "author": [
+      {
+        "family": "Getcomposer.org"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "title": "Introduction - composer",
+    "type": "webpage"
+  },
+
+  {
+    "id": "phpunit",
+    "URL": "https://phpunit.de",
+    "author": [
+      {
+        "family": "Phpunit.de"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "title": "PHPUnit – the php testing framework",
+    "type": "webpage"
+  },
+
+{
+  "id": "slideshare",
+    "URL": "http://www.slideshare.net/joshuaswarren/phpspec-behat-two-testing-tools-that-write-code-for-you-phptek-edition.",
+    "author": [
+      {
+        "family": "Laracasts"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "title": "When to use phpspec, behat and phpunit",
+    "type": "webpage"
+  },
+
+  {
+    "id": "phpspec",
+    "URL": "http://www.phpspec.net/en/stable/manual/introduction.html",
+    "author": [
+      {
+        "family": "Phpspec.net"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "title": "Introduction — phpspec 3.x documentation",
+    "type": "webpage"
+  },
+ 
+  {
+    "id": "behat",
+    "URL": "http://behat.org/en/latest/index.html",
+    "author": [
+      {
+        "family": "Behat.org"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "title": "Behat — a php framework for autotesting your business expectations",
+    "type": "webpage"
+  },
+  
+  {
+    "id": "gherkin_code",
+    "URL": "https://github.com/cucumber/cucumber/wiki/Gherkin",
+    "author": [
+      {
+        "family": "GitHub"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "title": "Gherkin code",
+    "type": "webpage"
+  },
+
+  {
+    "id": "blog.capterra",
+    "URL": "http://blog.capterra.com",
+    "author": [
+      {
+        "family": "blog.capterra.com"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "title": "Agile lifecycle",
+    "type": "webpage"
+  }
+]
